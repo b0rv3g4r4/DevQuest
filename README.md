@@ -1,5 +1,4 @@
-
-![large-logo](https://github.com/b0rv3g4r4/DevQuest/assets/34290325/da11df19-b88f-49ee-ba99-b9f1083670f4)
+![large-logo](https://github.com/b0rv3g4r4/DevQuest/assets/34290325/92b715c8-870a-45d8-8c19-793ef30c6818)
 
 
 ## Why DevQuest?
